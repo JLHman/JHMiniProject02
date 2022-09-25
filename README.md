@@ -13,7 +13,7 @@ Additional information about `pandas` is available at here: [Ten minutes to pand
 
 ## Objectives
 
--     (5/5 points) Initial comments with your name, class and project at the top of your .py file.
+-    (5/5 points) Initial comments with your name, class and project at the top of your .py file.
 -    (5/5 points) Proper import of packages used.
 -    (20/20 points) Using a data source of your choice, such as data from data.gov or using the Faker package, generate or retrieve some data for creating basic statistics on. This will generally come in as json data, etc.      
 -    (10/10 points) Store this information in Pandas dataframe. These should be 2D data as a dataframe, meaning the data is labeled tabular data.
