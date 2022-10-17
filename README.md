@@ -3,7 +3,7 @@
 Mini Project 2 
  
 Python program to extract and display data about several stocks.  This project was completed for the INF 601 class at 
-Fort Hayes University.  This project is an introduction to PANDAS data frames.
+Fort Hays University.  This project is an introduction to PANDAS data frames.
 
 ## PANDAS
 
